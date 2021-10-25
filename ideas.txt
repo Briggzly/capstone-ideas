@@ -1,0 +1,9 @@
+1. Build a web scrapper that goes to amazon API and maybe walmart pulls whatever they searched and compares the prices for the item user can also sign up and then possibly save those items to a list make it look if it is in stock as well. 
+
+2. Integration between Airbnb hosts scheduled reservations and a cleaning crews calender.
+
+3. Build a e-commerce/blog sight for my grandmas books make it so they can buy her books right on her website and have a chat section that she can communicate with the users that sign up.
+
+4. Build a web scrapper for shoes that goes to StockX api and Goat api compares the prices make it so they can save the shoes in a list.
+
+5. Build a fitness stat tracker that people can have an account on.
